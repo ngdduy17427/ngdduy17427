@@ -27,8 +27,11 @@ Welcome to my github, I am a software developer from Vietnam. Experience in deve
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
-
 # 📊 GitHub Stats:
-![Duy Nguyen's Github Top Lang](https://github-readme-stats.vercel.app/api/top-langs?username=ngdduy17427)
-
-![Duy Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngdduy17427)
+<p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ngdduy17427&theme=calm">
+    <img src= "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ngdduy17427&theme=calm">
+    <img src= "http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ngdduy17427&theme=calm">
+    <img src= "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ngdduy17427&theme=calm">
+    <img src= "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ngdduy17427&theme=calm&utcOffset=8">
+</p>
