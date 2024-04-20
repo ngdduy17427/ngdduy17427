@@ -1,5 +1,5 @@
 # Hello there, I'm Duy Nguyen 🖐️
-Welcome to my github, I am a software developer from Vietnam. Experience in developing web, desktop applications using React. Currently, I am developing some TypeScript libraries to expand my skillset.
+Welcome to my github, I am a full-time Full-stack Engineer from Vietnam. Experience in developing web, desktop applications using React. Currently, I am developing some TypeScript libraries to expand my skillset.
 
 # 💻 Programming Language & Tools
 ### 📋 Languages
